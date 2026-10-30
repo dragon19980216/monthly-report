@@ -1,0 +1,4 @@
+interface:
+  display_name: "月度工作汇报表"
+  short_description: "Summarize weekly reports into the monthly template"
+  default_prompt: "用 /monthly-report 把 D:/桌面/桌面文件/周报 里的周报汇总成月度工作汇报表。"
